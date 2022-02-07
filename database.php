@@ -1,4 +1,5 @@
 <?php
+  echo ("Init Database .. " . PHP_EOL));
   $serverName = "sql-rdj-opendo.database.windows.net"; // update me
   $connectionOptions = array(
       "Database" => "Opendo", // update me
